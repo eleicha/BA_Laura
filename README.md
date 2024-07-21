@@ -125,6 +125,4 @@ rKL's best value is 0 while it also lies in the interval [0,1].
 
 Laura Mons
 
-mons@tu-berlin.de
-
 Github: eleicha
